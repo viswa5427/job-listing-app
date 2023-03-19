@@ -22,20 +22,6 @@ const useStyles = makeStyles((theme)=>({
 
 }));
 
-const dummyData = {
-    jobTitle:'UI UX Designer',
-    companyName:'Apple',
-    industry:'Information Technology',
-    jobLocation:'Chennai, Tamilnadu, India',
-    remoteType:'In-office',
-    type:'Part-Time',
-    experienceMin:'1',
-    experienceMax:'2',
-    salaryMin:'30,000',
-    salaryMax:'50,000',
-    totalEmployee:'51-200',
-    applyType:'',
-}
 
 export default (props) =>{
     const classes = useStyles();
