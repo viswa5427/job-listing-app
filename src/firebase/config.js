@@ -3,17 +3,19 @@ import 'firebase/firestore'
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyD0nXMJ6FarwVOJvXwR1wfdJrhxJw3JKjg",
+    apiKey: "AIzaSyB4QKTOB2Xxp5X36vPI_ODPYV8CBvouNNE",
 
-  authDomain: "job-listing2-9d891.firebaseapp.com",
+    authDomain: "joblisting3-e3cbd.firebaseapp.com",
 
-  projectId: "job-listing2-9d891",
+    projectId: "joblisting3-e3cbd",
 
-  storageBucket: "job-listing2-9d891.appspot.com",
+    storageBucket: "joblisting3-e3cbd.appspot.com",
 
-  messagingSenderId: "270559374380",
+    messagingSenderId: "707004951941",
 
-  appId: "1:270559374380:web:1687224b0217a2ef977589"
+    appId: "1:707004951941:web:f9732ac71d16ee1069a8ec",
+
+    measurementId: "G-6JPNTTCL4P"
 
 };
 
